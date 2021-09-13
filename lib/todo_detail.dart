@@ -10,7 +10,7 @@ class ToDoDetail extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.orange[900],
-        title: Text("ToDo Detail"),
+        title: Text("Todo Detail"),
         centerTitle: true,
       ),
       body: Column(

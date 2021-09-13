@@ -40,7 +40,7 @@ class _ToDoListState extends State<ToDoList> {
       ),
       appBar: AppBar(
         backgroundColor: Colors.orange[900],
-        title: Text("ToDo List"),
+        title: Text("Todo List"),
         centerTitle: true,
         actions: [
           IconButton(

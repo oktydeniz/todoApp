@@ -37,7 +37,7 @@ class ToDoAdd extends StatelessWidget {
       ),
       appBar: AppBar(
         backgroundColor: Colors.orange[900],
-        title: Text("Add ToDo"),
+        title: Text("Add Todo"),
       ),
       body: Padding(
         padding: const EdgeInsets.only(top: 20),
